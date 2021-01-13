@@ -1,2 +1,2 @@
 # bootstrap R
-function for APC (only for testing)
+(only for testing)
